@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "melt",
+  "base_artist": "TK from Ling tosite sigure",
+  "createdAt": "2026-03-13T11:15:51.330852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Melt - Remastered Version",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_I_Melt_-_Remastered_Version_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Melt My Heart To Stone",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/02_Melt_My_Heart_To_Stone_Adele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Melt My Heart To Stone - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": false,
+      "path": "select/03_Melt_My_Heart_To_Stone_-_Live_at_Hotel_Cafe_Adele.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Melt with You",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/04_I_Melt_with_You_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Melt with You (7\" Mix)",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/05_I_Melt_with_You_(7__Mix)_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Melt Away",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/06_Melt_Away_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Nouvelle Vague",
+      "has_synced": false,
+      "path": "select/07_I_Melt_With_You_Nouvelle_Vague.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Melt Everyone",
+      "artist": "Neil Cicierega",
+      "has_synced": true,
+      "path": "select/08_Melt_Everyone_Neil_Cicierega.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Melt",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/09_Melt_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Melt My Heart",
+      "artist": "Book Of Love",
+      "has_synced": false,
+      "path": "select/10_Melt_My_Heart_Book_Of_Love.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Melt Me",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/11_Melt_Me_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mind Melt",
+      "artist": "Deee-Lite",
+      "has_synced": true,
+      "path": "select/12_Mind_Melt_Deee-Lite.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mind Melt",
+      "artist": "Deee‐Lite",
+      "has_synced": true,
+      "path": "select/13_Mind_Melt_Deee‐Lite.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Melt",
+      "artist": "Alison's Halo",
+      "has_synced": false,
+      "path": "select/14_Melt_Alison's_Halo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Melt",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/15_Black_Melt_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Melt",
+      "artist": "Kamp!",
+      "has_synced": true,
+      "path": "select/16_Melt_Kamp!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "melt (sainou mix)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_melt_(sainou_mix)_TK_from_凛として時雨.txt"
+    }
+  ]
+}
